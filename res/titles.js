@@ -1,0 +1,2 @@
+var _0x5a47=["el1t3                    marsellona.xyz ","title ","length","substring","charAt","ScrollTitle()"];var msg1=_0x5a47[0];var speed=15000;function ScrollTitle(){document[_0x5a47[1]]=msg1;msg1=msg1[_0x5a47[3]](1,msg1[_0x5a47[2]])+ msg1[_0x5a47[4]](0);setTimeout(_0x5a47[7],speed)}
+ScrollTitle()

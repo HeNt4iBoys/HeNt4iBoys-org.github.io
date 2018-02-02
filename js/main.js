@@ -1,0 +1,5 @@
+jQery(document).ready(function(){
+	
+	//
+
+	]);
